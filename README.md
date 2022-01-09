@@ -3,10 +3,7 @@ ANTANI Token aims to become the very first Ethical Token for Supercazzola Premat
 
 ANTANI is meant celebrate [Amici Miei](https://en.wikipedia.org/wiki/My_Friends_(film)), following tech-community effort in developing [Monicelli](https://github.com/esseks/monicelli) language.
 
-Amici Miei, with it's Supercazzola Prematurata lead the Innovation in the '70s with Entropy, so ANTANI Token must follow the same.
-
-![Supercazzola](supercazzola.jpeg?raw=true) ![Logo](antarilogo.jpeg?raw=true)
-
+Amici Miei, with it's Supercazzola Prematurata lead the Innovation in the '70s with Entropy. ANTANI Tokenomics lead the Web3 innovation.
 
 
 # Token Technical Implementation
@@ -46,3 +43,10 @@ The final outcome of this design is made up so that, by Redeeming an ANTANI, isn
 The ANTANI Community works in complete Decentralized way on Telegram https://t.me/antanitoken .
 
 By the development of ANTANI DeFi ecosystem, the community is giving the governance to the ANTANI DAO, whereby the Token itself represent the Governance rules.
+
+# Artifacts
+
+The artifacts and logo are well represented below for community oriented communication
+![Supercazzola](supercazzola.jpeg?raw=true) 
+
+![Logo](antarilogo.jpeg?raw=true)
