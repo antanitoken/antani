@@ -8,6 +8,8 @@ Amici Miei, with it's Supercazzola Prematurata lead the Innovation in the '70s w
 # Token Technical Implementation
 ANTANI is a Smart Contract, designed for ERC20 compatible blockchains where it will be deployed: Ethereum, Polygon, BSC, Avalanche, Arbitrium
 
+The Token code has to be developed in Solidity, while the best way would be to do it in Monicelli by implementing the [Monicelli to ERC20 EVM compatible transcompiler](https://github.com/esseks/monicelli/issues/54).
+
 # Tokenomics Design
 The unique innovation of ANTANI is to become the first INUTILITY TOKEN, it means a Token that can't be used for any speculative purposes.
 
