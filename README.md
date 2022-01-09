@@ -5,7 +5,8 @@ ANTANI is meant celebrate [Amici Miei](https://en.wikipedia.org/wiki/My_Friends_
 
 Amici Miei, with it's Supercazzola Prematurata lead the Innovation in the '70s with Entropy, so ANTANI Token must follow the same.
 
-![Supercazzola](supercazzola.jpeg?raw=true)
+![Supercazzola](supercazzola.jpeg?raw=true) ![Logo](antarilogo.jpeg?raw=true)
+
 
 
 # Token Technical Implementation
